@@ -1,4 +1,4 @@
-# Hospital-Finder-Application-
+# Hospital FinderApplication
 Android application to help users to locate nearby hospitals and the filters for services,specialization and emergency availability.Developed using Android Studio with offline support and user-friendly navigation.
 
 Key Features
